@@ -26,6 +26,10 @@ const API_SITES = {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
+    },  
+    maotai: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/',
+        name: '茅台资源',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -106,16 +110,6 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },  
-    maotai: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn',
-        name: '茅台资源',
-        detail: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn',
-    },
-    douban: {
-        api: 'https://caiji.dbzy5.com/api.php/provide/vod/at/josn',
-        name: '豆瓣资源',
-        detail: 'https://caiji.dbzy5.com/api.php/provide/vod/at/josn',
-    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
