@@ -106,11 +106,6 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },  
-    huya: {
-        api: 'https://www.huyaapi.com',
-        name: '虎牙资源',
-        detail: 'https://www.huyaapi.com',
-    },
     maotai: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn',
         name: '茅台资源',
