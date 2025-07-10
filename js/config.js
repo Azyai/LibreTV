@@ -112,14 +112,14 @@ const API_SITES = {
         detail: 'https://www.huyaapi.com',
     },
     maotai: {
-        api: 'https://mtzy.me',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn',
         name: '茅台资源',
-        detail: 'https://mtzy.me',
+        detail: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn',
     },
     douban: {
-        api: 'https://dbzy.tv',
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod/at/josn',
         name: '豆瓣资源',
-        detail: 'https://dbzy.tv',
+        detail: 'https://caiji.dbzy5.com/api.php/provide/vod/at/josn',
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
